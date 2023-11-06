@@ -1,0 +1,126 @@
+.color{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+
+.txt{ 
+    font-size:11px;
+    font-family: "arial", serif;
+}
+.tab_temp{ 
+    background:#417591;
+    color:white;
+    font-size:11px;
+    font-family: "arial", serif;
+    border: white 5px;
+}
+.col{ 
+    color:#417591;
+    font-size:12px;
+    border: white 5px;
+}
+.clrs{ 
+    background:#357ca5;
+    color:white;
+    font-size:12px;
+    border: white 5px;
+}
+.box_temp{ 
+    border-color:#417591;
+}
+/* botton verde_azulado 1e6062*/
+.btn_temp{
+ background:#417591;
+ border: 1px solid #417591;
+ color: #ffffff;
+ border-radius: 3px 3px 3px 3px;
+}
+.btn_temp:hover {
+ background:#417591;
+ border: solid #417591;
+ color: #ffffff;
+ box-shadow: inset 0 0 0 3px #417591;
+}
+/* botton danger*/
+.btn_danger{
+ background:#e83925;
+ border: 2px solid #e83925;
+ color: #ffffff;
+ border-radius: 8px 8px 8px 8px;
+}
+.btn_danger:hover {
+ background:#e83925;
+ border: 1px solid #e83925;
+ color: #ffffff;
+ box-shadow: inset 0 0 0 3px #e83925;
+}
+/* botton primary*/
+.btn_primary{
+ background:#ffffff;
+ border: 2px solid #417591;
+ color: #417591;
+ border-radius: 8px 8px 8px 8px;
+}
+.btn_primary:hover {
+ background:#417591;
+ border: 1px solid #417591;
+ color: #ffffff;
+ box-shadow: inset 0 0 0 3px #417591;
+}
+/* botton warning*/
+.btn_warning{
+ background:#ffffff;
+ border: 2px solid #e83925;
+ color: #e83925;
+ border-radius: 8px 8px 8px 8px;
+}
+.btn_warning:hover {
+ background:#e83925;
+ border: 1px solid #e83925;
+ color: #ffffff;
+ box-shadow: inset 0 0 0 3px #e83925;
+}
+/* botton info*/
+.btn_info{
+ background:#ffffff;
+ border: 2px solid #e83925;
+ color: #e83925;
+ border-radius: 8px 8px 8px 8px;
+}
+.btn_info:hover {
+ background:#e83925;
+ border: 1px solid #e83925;
+ color: #ffffff;
+ box-shadow: inset 0 0 0 3px #e83925;
+}
+/* botton black*/
+.btn_black{
+ background:#ffffff;
+ border: 2px solid #e83925;
+ color: #e83925;
+ border-radius: 8px 8px 8px 8px;
+}
+.btn_black:hover {
+ background:#e83925;
+ border: 1px solid #e83925;
+ color: #ffffff;
+ box-shadow: inset 0 0 0 3px #e83925;
+}
+/* botton vrdinfo*/
+.btn_vrdinfo{
+ background:#99c33a;
+ border: 1px solid #99c33a;
+ color: #ffffff;
+ border-radius: 4px 4px 4px 4px;
+}
+.btn_vrdinfo:hover {
+ background:#8fb536;
+ border: 1px solid #99c33a;
+ color: #ffffff;
+ box-shadow: inset 0 0 0 3px #8fb536;
+}
+.table-striped>tbody>tr:nth-child(odd)>td,
+.table-striped>tbody>tr:nth-child(odd)>th {
+    background-color: #e8eef9;
+}
+
+.ctemp{ 
+    background:#e8eef9;
+}

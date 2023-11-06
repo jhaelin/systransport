@@ -1,0 +1,24 @@
+
+.clrs{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+
+.clrs{ 
+    background:#357ca5;
+    color:white;
+    font-size:11.5px;
+    border: white 5px;
+}
+
+.clrsel{ 
+    background:#d33724; 
+    color:white;
+    font-size:11.5px;
+}
+
+.clrsve{ 
+    background:#008749; 
+    color:white;
+    font-size:11.5px;
+}
+th {
+  border: orange 5px solid;
+}
